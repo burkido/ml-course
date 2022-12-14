@@ -14,7 +14,6 @@ ml-env
 *.csv
 
 projects/movie-kaggle/dataset/credits.csv
-projects/developia-movie-recommendation
 week-12/homework-3/dataset/images_train.csv
 
 
